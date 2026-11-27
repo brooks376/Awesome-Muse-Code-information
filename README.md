@@ -620,6 +620,10 @@ Independent analyses, comparisons, and community resources:
 
 - [Vercel AI Gateway — Muse Spark 1.2](https://vercel.com/ai-gateway/models/muse-spark-1.2-contributor) — API gateway access
 
+### Community Tools
+
+- [MuseCodeIcon](https://github.com/yourbossdonpely/musecligui) — free, MIT-licensed desktop GUI (Windows, macOS, Linux) for the Muse Code CLI, with coding threads, approvals, diffs and usage meters. Unofficial community project, not affiliated with Meta.
+
 ---
 
 ## Changelog
