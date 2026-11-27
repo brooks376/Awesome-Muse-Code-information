@@ -622,7 +622,7 @@ Independent analyses, comparisons, and community resources:
 
 ### Community Tools
 
-- [MuseCodeIcon](https://github.com/yourbossdonpely/musecligui) — free, MIT-licensed desktop GUI (Windows, macOS, Linux) for the Muse Code CLI, with coding threads, approvals, diffs and usage meters. Unofficial community project, not affiliated with Meta.
+- [MuseCodeIcon](https://github.com/yourbossdonpely/musecodeicon) — free, MIT-licensed desktop GUI (Windows, macOS, Linux) for the Muse Code CLI, with coding threads, approvals, diffs and usage meters. Unofficial community project, not affiliated with Meta.
 
 ---
 
